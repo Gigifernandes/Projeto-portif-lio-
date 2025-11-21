@@ -97,11 +97,11 @@ onBeforeUnmount(() => {
 
 .sidebar .social a:hover{
     transform: scale(1.5);
-    color: rgb(255, 255, 101)
+    color: rgb(255, 255, 101);
 }
 
 .sidebar .direcao a:hover{
-    color: rgb(255, 255, 101)
+    color: rgb(255, 255, 101);
 }
 
 .menu-toggle{

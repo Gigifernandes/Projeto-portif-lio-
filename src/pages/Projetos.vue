@@ -169,7 +169,7 @@ onMounted(() => {
     justify-content: center;
     background-color: rgb(255, 255, 101);
     border-radius: 6px;
-    color: rgb(0, 0, 0);
+    color: rgb(32, 31, 31);
     padding: 10px 10px;
     text-decoration: none;
 }
@@ -223,8 +223,8 @@ onMounted(() => {
 }
 
 .dropdown-opcoes li:hover {
-  background-color: #7c3aed;
-  color: white;
+  background-color:  rgb(255, 255, 101);
+  color: rgb(32, 31, 31);
 }
 
 .filtro-container {
@@ -277,7 +277,7 @@ button.btn-ver-mais:hover{
 }
 
 button.btn-ver-mais:hover{
-    color: rgb(0, 0, 0);
+    color: rgb(32, 31, 31);
 }
 
 
@@ -405,6 +405,7 @@ p {
     width: 100%;
     text-align: center;
   }
+
 }
 
 </style>

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titulo": "Primeiro projeto",
+    "categoria": "Projetos de conclusão de aprendizado",
+    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
+    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "imagens": [
+      "/assets/primeiroprojeto.png",
+      "/assets/primeiroprojeto2.png",
+      "/assets/primeiroprojeto3.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+  },
+  {
+    "id": 1,
+    "titulo": "Primeiro projeto",
+    "categoria": "Projetos de conclusão de aprendizado",
+    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
+    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "imagens": [
+      "/assets/primeiroprojeto.png",
+      "/assets/primeiroprojeto2.png",
+      "/assets/primeiroprojeto3.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+  }
+  
+]
+

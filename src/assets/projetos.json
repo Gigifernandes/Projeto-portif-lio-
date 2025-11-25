@@ -1,17 +1,80 @@
 [
   {
     "id": 1,
-    "titulo": "Primeiro projeto",
-    "categoria": "Projetos de conclusão de aprendizado",
-    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
-    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "titulo": "Site pizza",
+    "categoria": "Finalização de bimestre",
+    "descricaoCurta": "Site venda de pizza, ultimo projeto de 2023",
+    "descricaoDetalhada": "No dia 30 de Novembro de 2023 no ultimo bimestre estudando informática para internet na ETEC Antonio Furlan, a professora Deborá Paulo solicitou que fosse feito um site em HTML e CSS, além disso pediu utilizassemos o bootstrap e que publicassemos nosso site no github, uma tecnologia nova para nossa turma, mas que se tornou um objeto recorrente para postagem de projetos",
     "imagens": [
-      "/assets/primeiroprojeto.png",
-      "/assets/primeiroprojeto2.png",
-      "/assets/primeiroprojeto3.png"
+      "/img/trabalhodebora.png",
+      "/img/trabalhodebora2.png",
+      "/img/trabalhodebora3.png"
     ],
     "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
   },
+  {
+    "id": 2,
+    "titulo": "Aula de Javascript",
+    "categoria": "fina",
+    "descricaoCurta": "Site de HTML e CSS, com explicação sobre Javascript",
+    "descricaoDetalhada": "Durante o primeiro bimestre no ano de 2024, a professora Debora Paulo nos ensinou conseitos de Javascrip, e para incentivar nosso aprendizado autonomo, solicitou que fizessemos um site que ensinasse javascrip, explicando os primeiros passos, JSDOM, variaveis, Conparativos, logica, condicionais e repetiçaõ, utilizei HTML, CSS e o bootstrap.",
+    "imagens": [
+     "/img/explicandoJS (1).png",
+     "/img/explicandoJS.png",
+      "/img/explicandoJS (2).png",
+      "/img/explicandoJS (3).png",
+      "/img/explicandoJS (4).png",
+      "/img/explicandoJS (5).png",
+      "/img/explicandoJS (6).png",
+      "/img/explicandoJS (7).png",
+      "/img/explicandoJS 8.png",
+      "/img/explicandoJS 9.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/trablhoexplicandoJS.git"
+  },
+
+  {
+    "id": 3,
+    "titulo": "Login",
+    "categoria": "JS",
+    "descricaoCurta": "Login com JS, CSS e HTML",
+    "descricaoDetalhada": "Atividade de Interfaces web 2, com objetivo de aprender como fazer uma tela de login com CSS, HTML e JS",
+    "imagens": [
+      "/img/autenticação (1).png",
+      "/img/autenticação (2).png",
+      "/img/autenticação (3).png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/1-atividadesegundobimestre.git"
+  },
+
+  {
+    "id": 4,
+    "titulo": "Primeiro projeto",
+    "categoria": "Finalização de bimestre",
+    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
+    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "imagens": [
+      "/img/promeiroprojeto.png",
+      "/img/promeiroprojeto2.png",
+      "/img/promeiroprojeto3.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+  },
+
+  {
+    "id": 1,
+    "titulo": "Primeiro projeto",
+    "categoria": "Finalização de bimestre",
+    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
+    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "imagens": [
+      "/img/promeiroprojeto.png",
+      "/img/promeiroprojeto2.png",
+      "/img/promeiroprojeto3.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+  },
+
   {
     "id": 1,
     "titulo": "Primeiro projeto",
@@ -19,12 +82,69 @@
     "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
     "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
     "imagens": [
-      "/assets/primeiroprojeto.png",
-      "/assets/primeiroprojeto2.png",
-      "/assets/primeiroprojeto3.png"
+      "/img/promeiroprojeto.png",
+      "/img/promeiroprojeto2.png",
+      "/img/promeiroprojeto3.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+  },
+
+  {
+    "id": 1,
+    "titulo": "Primeiro projeto",
+    "categoria": "Projetos de conclusão de aprendizado",
+    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
+    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "imagens": [
+      "/img/promeiroprojeto.png",
+      "/img/promeiroprojeto2.png",
+      "/img/promeiroprojeto3.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+  },
+
+  {
+    "id": 1,
+    "titulo": "Primeiro projeto",
+    "categoria": "Projetos de conclusão de aprendizado",
+    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
+    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "imagens": [
+      "/img/promeiroprojeto.png",
+      "/img/promeiroprojeto2.png",
+      "/img/promeiroprojeto3.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+  },
+
+  {
+    "id": 1,
+    "titulo": "Primeiro projeto",
+    "categoria": "Projetos de conclusão de aprendizado",
+    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
+    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "imagens": [
+      "/img/promeiroprojeto.png",
+      "/img/promeiroprojeto2.png",
+      "/img/promeiroprojeto3.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+  },
+
+  {
+    "id": 1,
+    "titulo": "Primeiro projeto",
+    "categoria": "Projetos de conclusão de aprendizado",
+    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
+    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "imagens": [
+      "/img/promeiroprojeto.png",
+      "/img/promeiroprojeto2.png",
+      "/img/promeiroprojeto3.png"
     ],
     "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
   }
-  
+
+
 ]
 

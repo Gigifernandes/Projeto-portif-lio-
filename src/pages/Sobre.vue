@@ -29,7 +29,7 @@
 
         </div>     
         
-    
+
     </div>
 </template>
 
@@ -49,16 +49,10 @@
 }
 
 .about-text{
-    flex: 300px;
+    flex: 1;
     padding: 2rem;
 }
 
-.about-photo img{
-    width: 300px;
-    max-width: 90vw;
-    border-radius: 20px;
-    object-fit: cover;
-}
 
 .icons-grid{
     margin-top: 32px;

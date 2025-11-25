@@ -101,8 +101,7 @@ interface Projeto {
   descricaoCurta: string;
   descricaoDetalhada: string;
   imagens: string[];
-  codigoUrl?: string;
-  siteUrl?: string;
+  codigoUrl?: string
 }
 
 const projetos = ref<Projeto[]>([])
@@ -394,7 +393,9 @@ p {
   }
 
   .carousel img {
-    max-width: 100%;
+   width: 100%;
+   height: auto;
+   object-fit: contain;
   }
 
   .modal-buttons {
@@ -405,6 +406,8 @@ p {
     width: 100%;
     text-align: center;
   }
+   
+
 
 }
 

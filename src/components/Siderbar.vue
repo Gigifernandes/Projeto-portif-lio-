@@ -122,12 +122,34 @@ onBeforeUnmount(() => {
     }
     .sidebar{
         width: 150px;
+        background-color: rgb(255, 255, 101);
         transform: translateX(-100%);
+
+    }
+    .menu-toggle{
+        color: rgb(146, 11, 249);
+    }
+
+    .sidebar a{
+    color: rgb(146, 11, 249);
+    text-decoration: none;
+    font-weight: bold;
+
+    }
+    .sidebar .social a:hover{
+    transform: scale(1.5);
+    color:rgb(0, 0, 0);
+    }
+    
+    .sidebar .direcao a:hover{
+    color: rgb(0, 0, 0);
     }
 
     .sidebar.open{
         transform: translateX(0);
     }
+
+   
 }
 
 

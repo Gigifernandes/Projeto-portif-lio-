@@ -1,11 +1,12 @@
-[ {
+[
+  {
     "id": 0,
     "titulo": "Musica",
     "categoria": "Projetos de conclusão de aprendizado",
     "descricaoCurta": "Site que conta um pouco sobre MPB",
     "descricaoDetalhada": "Primeiro trabalho proposto pela professora Débora Paulo, cujo objetivo era introduzir os fundamentos de HTML e CSS. A atividade permitia que cada aluno desenvolvesse um site sobre um tema de sua preferência. Assim, optei por criar um site dedicado à MPB, apresentando informações sobre alguns dos meus artistas favoritos.",
     "imagens": [
-      "/img/primeirotrabalho (1).png", 
+      "/img/primeirotrabalho (1).png",
       "/img/primeirotrabalho (2).png",
       "/img/primeirotrabalho (3).png",
       "/img/primeirotrabalho (4).png",
@@ -29,6 +30,7 @@
     ],
     "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
   },
+
   {
     "id": 2,
     "titulo": "Aula de Javascript",
@@ -36,8 +38,8 @@
     "descricaoCurta": "Site de HTML e CSS, com explicação sobre Javascript",
     "descricaoDetalhada": "Durante o primeiro bimestre de 2024, a professora Débora Paulo nos ensinou os conceitos iniciais de JavaScript. Para incentivar nosso aprendizado autônomo, ela solicitou que criássemos um site que explicasse os fundamentos da linguagem, incluindo primeiros passos, DOM, variáveis, comparativos, lógica, condicionais e repetição. Para o desenvolvimento do projeto, utilizei HTML, CSS e Bootstrap.",
     "imagens": [
-     "/img/explicandoJS (1).png",
-     "/img/explicandoJS.png",
+      "/img/explicandoJS (1).png",
+      "/img/explicandoJS.png",
       "/img/explicandoJS (2).png",
       "/img/explicandoJS (3).png",
       "/img/explicandoJS (4).png",
@@ -99,7 +101,8 @@
     ],
     "codigoUrl": "https://github.com/Gigifernandes/atividade2-bimestre.git"
   },
-   {
+
+  {
     "id": 6,
     "titulo": "Dia dos Namorados",
     "categoria": "JS",
@@ -123,27 +126,26 @@
     "imagens": [
       "/img/desingsitedentista (17).png",
       "/img/desingsitedentista (16).png",
-    "/img/desingsitedentista (15).png",
-    "/img/desingsitedentista (14).png",
-    "/img/desingsitedentista (13).png",
-    "/img/desingsitedentista (12).png",
-    "/img/desingsitedentista (11).png",
-    "/img/desingsitedentista (10).png",
-    "/img/desingsitedentista (9).png",
-    "/img/desingsitedentista (8).png",
-    "/img/desingsitedentista (7).png",
-    "/img/desingsitedentista (5).png",
-    "/img/desingsitedentista (4).png",
-    "/img/desingsitedentista (3).png",
-    "/img/desingsitedentista (2).png",
-    "/img/desingsitedentista (1).png"
+      "/img/desingsitedentista (15).png",
+      "/img/desingsitedentista (14).png",
+      "/img/desingsitedentista (13).png",
+      "/img/desingsitedentista (12).png",
+      "/img/desingsitedentista (11).png",
+      "/img/desingsitedentista (10).png",
+      "/img/desingsitedentista (9).png",
+      "/img/desingsitedentista (8).png",
+      "/img/desingsitedentista (7).png",
+      "/img/desingsitedentista (5).png",
+      "/img/desingsitedentista (4).png",
+      "/img/desingsitedentista (3).png",
+      "/img/desingsitedentista (2).png",
+      "/img/desingsitedentista (1).png"
     ],
-    
     "DesignUrl": "https://www.figma.com/design/f1IFay169MreD5dQkgXpNB/aula2?node-id=0-1&t=8KQpWXSD6GLPsq78-1"
   },
 
   {
-    "id":8,
+    "id": 8,
     "titulo": "Vendas de coxinha",
     "categoria": "Desing",
     "descricaoCurta": "Desing entendendo sobre tamanhos",
@@ -194,7 +196,7 @@
       "/img/backerville (24).png",
       "/img/backerville (25).png"
     ],
-    "codigoUrl": "https://www.figma.com/design/pWHGMLZ2ajyZZlnAIBhMJo/Untitled?node-id=0-1&t=kwAGU3h4B3rMnLN1-1"
+    "DesignUrl": "https://www.figma.com/design/pWHGMLZ2ajyZZlnAIBhMJo/Untitled?node-id=0-1&t=kwAGU3h4B3rMnLN1-1"
   },
 
   {
@@ -241,21 +243,65 @@
     "descricaoDetalhada": "O Sistema de Delivery – Microsserviço de Clientes e Restaurantes foi um projeto proposto pelo professor Jacques Simões, para ser desenvolvido em grupo como parte do TCC, com entrega prevista para abril de 2025. As tecnologias utilizadas incluem Node.js, Express.js, MySQL, JWT, entre outras. Fiquei responsável pela página de autenticação de clientes, implementando cadastro, login e gerenciamento de acesso dentro do microsserviço.",
     "imagens": [
       "/img/microsservisso (7).png",
-       "/img/microsservisso (3).png",
-        "/img/microsservisso (4).png",
-         "/img/microsservisso (5).png",
-          "/img/microsservisso (6).png",
-           "/img/microsservisso (1).png",
-            "/img/microsservisso (2).png",
-            "/img/microsservisso (8).png",
-            "/img/microsservisso (9).png",
-            "/img/microsservisso (10).png",
-            "/img/microsservisso (11).png"
-
+      "/img/microsservisso (3).png",
+      "/img/microsservisso (4).png",
+      "/img/microsservisso (5).png",
+      "/img/microsservisso (6).png",
+      "/img/microsservisso (1).png",
+      "/img/microsservisso (2).png",
+      "/img/microsservisso (8).png",
+      "/img/microsservisso (9).png",
+      "/img/microsservisso (10).png",
+      "/img/microsservisso (11).png"
     ],
     "codigoUrl": "https://github.com/Gigifernandes/sisitemaMicrosservicos.git"
+  },
+
+  {
+    "id": 13,
+    "titulo": "SIMBA DESING",
+    "categoria": "TCC",
+    "descricaoCurta": "Sistema Integrador de Banco de Sangue Animal",
+    "descricaoDetalhada": "Design do site desenvolvido para o Trabalho de Conclusão de Curso. O projeto foi realizado pelos participantes Giovanna Fernandes, Ana Beatriz, João Espeleta, Angélica Ferreira e Heloysa Assis. Buscamos criar uma proposta inovadora, diferente de tudo o que havíamos visto anteriormente. Dessa forma, surgiu a ideia de desenvolver o Sistema Integrador de Banco de Sangue Animal (SIMBA). A identidade visual foi composta por tonalidades mais escuras de amarelo, verde e vermelho — sendo o vermelho a cor principal, representando o banco de sangue; o amarelo, utilizado em elementos de destaque; e o verde, aplicado para transmitir sensação de limpeza e por sua forte associação à área da saúde. O design foi desenvolvido entre janeiro e julho de 2025, passando por testes e recebendo avaliações positivas de um médico-veterinário proprietário de um hemocentro, além de professores técnicos.",
+    "imagens": [
+      "/img/desing TCC (8).png",
+      "/img/desing TCC (1).png",
+      "/img/desing TCC (2).png",
+      "/img/desing TCC (3).png",
+      "/img/desing TCC (4).png",
+      "/img/desing TCC (5).png",
+      "/img/desing TCC (6).png",
+      "/img/desing TCC (7).png",
+      "/img/desing TCC (9).png",
+      "/img/desing TCC (10).png",
+      "/img/desing TCC (11).png"
+    ],
+    "DesignUrl": "https://www.figma.com/design/3iCWT8Rx8TrQEgLMyE2EDI/Simba?node-id=0-1&t=aqBJD57XTFfs5EWc-1"
+  },
+    {
+    "id": 13,
+    "titulo": "SIMBA SITE",
+    "categoria": "TCC",
+    "descricaoCurta": "Sistema Integrador de Banco de Sangue Animal site",
+    "descricaoDetalhada": "Site desenvolvido para o Trabalho de Conclusão de Curso. O projeto foi realizado pelos participantes Giovanna Fernandes, Ana Beatriz, João Espeleta, Angélica Ferreira e Heloysa Assis. Nosso objetivo foi criar uma proposta inovadora, diferente de tudo o que havíamos visto anteriormente. Assim, surgiu a ideia de desenvolver o Sistema Integrador de Banco de Sangue Animal (SIMBA). Com base no design elaborado no Figma, o site foi desenvolvido utilizando as linguagens PHP, MySQL, HTML, CSS e JavaScript. O projeto foi concluído em 4 de dezembro, após a apresentação para a banca avaliadora. Durante seu desenvolvimento, o site foi continuamente avaliado por um médico-veterinário e proprietário de um hemocentro animal, que destacou nunca ter visto uma solução semelhante. Ele elogiou especialmente a estratégia em formato “triangular” proposta pelo sistema, na qual: Hemocentros podem solicitar bolsas de sangue e cadastrar clínicas parceiras; Clínicas associadas podem permitir que seus pacientes (pets) realizem doações de forma segura; Tutores também podem se associar diretamente ao hemocentro para cadastrar seus pets como doadores. Além disso, os hemocentros podem registrar suas bolsas de sangue disponíveis, permitindo que outras clínicas ou hemocentros façam solicitações quando necessário.",
+    "imagens": [
+      "/img/TCC (1).png",
+      "/img/TCC (2).png",
+       "/img/TCC (3).png",
+        "/img/TCC (4).png",
+         "/img/TCC (5).png",
+          "/img/TCC (6).png",
+           "/img/TCC (7).png",
+            "/img/TCC (8).png",
+             "/img/TCC (9).png",
+             "/img/TCC (10).png",
+             "/img/TCC (11).png",
+             "/img/TCC (12).png",
+             "/img/TCC (13).png",
+             "/img/TCC (14).png",
+             "/img/TCC (15).png",
+             "/img/TCC (16).png"
+    ],
+    "codigoUrl": "https://github.com/TCC-SIMBA/phpteamo.git"
   }
-
-
 ]
-

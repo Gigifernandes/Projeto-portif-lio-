@@ -1,7 +1,7 @@
 export interface Projeto {
     id: number;
     titulo: string;
-    categoria: 'Finalização de bimestre' | 'Documentação' | 'JS'  | 'Desing'
+    categoria: 'Finalização de bimestre' | 'Documentação' | 'JS'  | 'Desing'| 'TCC'
     descricaoCurta: string;
     descricaoDetalhada: string;
     imagens: string[];

@@ -4,7 +4,7 @@
     "titulo": "Site pizza",
     "categoria": "Finalização de bimestre",
     "descricaoCurta": "Site venda de pizza, ultimo projeto de 2023",
-    "descricaoDetalhada": "No dia 30 de Novembro de 2023 no ultimo bimestre estudando informática para internet na ETEC Antonio Furlan, a professora Deborá Paulo solicitou que fosse feito um site em HTML e CSS, além disso pediu utilizassemos o bootstrap e que publicassemos nosso site no github, uma tecnologia nova para nossa turma, mas que se tornou um objeto recorrente para postagem de projetos",
+    "descricaoDetalhada": "No dia 30 de novembro de 2023, durante o último bimestre do curso de Informática para Internet na ETEC Antônio Furlan, a professora Deborá Paulo solicitou o desenvolvimento de um site utilizando HTML e CSS. Além disso, pediu que aplicássemos o Bootstrap e que o projeto fosse publicado no GitHub, uma tecnologia até então nova para nossa turma, mas que acabou se tornando uma ferramenta recorrente para a publicação dos nossos trabalhos.",
     "imagens": [
       "/img/trabalhodebora.png",
       "/img/trabalhodebora2.png",
@@ -15,9 +15,9 @@
   {
     "id": 2,
     "titulo": "Aula de Javascript",
-    "categoria": "fina",
+    "categoria": "Projetos de conclusão de aprendizado",
     "descricaoCurta": "Site de HTML e CSS, com explicação sobre Javascript",
-    "descricaoDetalhada": "Durante o primeiro bimestre no ano de 2024, a professora Debora Paulo nos ensinou conseitos de Javascrip, e para incentivar nosso aprendizado autonomo, solicitou que fizessemos um site que ensinasse javascrip, explicando os primeiros passos, JSDOM, variaveis, Conparativos, logica, condicionais e repetiçaõ, utilizei HTML, CSS e o bootstrap.",
+    "descricaoDetalhada": "Durante o primeiro bimestre de 2024, a professora Débora Paulo nos ensinou os conceitos iniciais de JavaScript. Para incentivar nosso aprendizado autônomo, ela solicitou que criássemos um site que explicasse os fundamentos da linguagem, incluindo primeiros passos, DOM, variáveis, comparativos, lógica, condicionais e repetição. Para o desenvolvimento do projeto, utilizei HTML, CSS e Bootstrap.",
     "imagens": [
      "/img/explicandoJS (1).png",
      "/img/explicandoJS.png",
@@ -38,7 +38,7 @@
     "titulo": "Login",
     "categoria": "JS",
     "descricaoCurta": "Login com JS, CSS e HTML",
-    "descricaoDetalhada": "Atividade de Interfaces web 2, com objetivo de aprender como fazer uma tela de login com CSS, HTML e JS",
+    "descricaoDetalhada": "Atividade de Interfaces Web 2, cujo objetivo foi aprender a desenvolver uma tela de login utilizando HTML, CSS e JavaScript.",
     "imagens": [
       "/img/autenticação (1).png",
       "/img/autenticação (2).png",
@@ -49,100 +49,188 @@
 
   {
     "id": 4,
-    "titulo": "Primeiro projeto",
+    "titulo": "Analise de combustivel",
+    "categoria": "JS",
+    "descricaoCurta": "fazendo analise atravez do javascript para descobrir qual combustivel vale mais a pena",
+    "descricaoDetalhada": "De acordo com os preços de combustível informados pelo usuário, o site analisa e indica qual opção vale mais a pena comprar. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, sob orientação da professora Débora Paulo.",
+    "imagens": [
+      "/img/analisedecombustivelcomJS (1).png",
+      "/img/analisedecombustivelcomJS (3).png",
+      "/img/analisedecombustivelcomJS (2).png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/trabalho-combustveis.git"
+  },
+
+  {
+    "id": 5,
+    "titulo": "Investigação",
+    "categoria": "JS",
+    "descricaoCurta": "Descobrindo o se o usuário é culpado, inossente ou cumplice",
+    "descricaoDetalhada": "O objetivo desse site era praticar o uso de JavaScript e gerar opções a partir das escolhas do usuário, oferecendo até três respostas diferentes de acordo com as seleções feitas por ele.",
+    "imagens": [
+      "/img/investigaçãocomJS (1).png",
+      "/img/investigaçãocomJS (11).png",
+      "/img/investigaçãocomJS (5).png",
+      "/img/investigaçãocomJS (6).png",
+      "/img/investigaçãocomJS (7).png",
+      "/img/investigaçãocomJS (8).png",
+      "/img/investigaçãocomJS (9).png",
+      "/img/investigaçãocomJS (10).png",
+      "/img/investigaçãocomJS (4).png",
+      "/img/investigaçãocomJS (2).png",
+      "/img/investigaçãocomJS (3).png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/atividade2-bimestre.git"
+  },
+   {
+    "id": 6,
+    "titulo": "Dia dos Namorados",
+    "categoria": "JS",
+    "descricaoCurta": "Site com tema de Dia dos namorados",
+    "descricaoDetalhada": "Atividade de Interface Web 2, desenvolvida com JavaScript, HTML e CSS. Foi a última atividade do 2º bimestre e teve como objetivo permitir que o usuário fizesse escolhas e, a partir delas, o site oferecesse uma resposta personalizada.",
+    "imagens": [
+      "/img/atividadefinal2bim2024 (1).png",
+      "/img/atividadefinal2bim2024 (2).png",
+      "/img/atividadefinal2bim2024 (3).png",
+      "/img/atividadefinal2bim2024.png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/atividade2-bimestre.git"
+  },
+
+  {
+    "id": 7,
+    "titulo": "Site dentita",
+    "categoria": "Desing",
+    "descricaoCurta": "Primeiro projeto de desing no figma",
+    "descricaoDetalhada": "Em abril de 2024, iniciei um curso de Design de Interface Web no SENAI, com o objetivo de aprimorar meus conhecimentos na área. Esse projeto foi desenvolvido no Figma, onde aprendi a aplicar conceitos essenciais de design, como a escolha adequada de tipografias, o uso de cores alinhadas à proposta visual e a regra das três cores principais, entre outros princípios fundamentais de UI.",
+    "imagens": [
+      "/img/desingsitedentista (17).png",
+      "/img/desingsitedentista (16).png",
+    "/img/desingsitedentista (15).png",
+    "/img/desingsitedentista (14).png",
+    "/img/desingsitedentista (13).png",
+    "/img/desingsitedentista (12).png",
+    "/img/desingsitedentista (11).png",
+    "/img/desingsitedentista (10).png",
+    "/img/desingsitedentista (9).png",
+    "/img/desingsitedentista (8).png",
+    "/img/desingsitedentista (7).png",
+    "/img/desingsitedentista (5).png",
+    "/img/desingsitedentista (4).png",
+    "/img/desingsitedentista (3).png",
+    "/img/desingsitedentista (2).png",
+    "/img/desingsitedentista (1).png"
+    ],
+    
+    "DesignUrl": "https://www.figma.com/design/f1IFay169MreD5dQkgXpNB/aula2?node-id=0-1&t=8KQpWXSD6GLPsq78-1"
+  },
+
+  {
+    "id":8,
+    "titulo": "Vendas de coxinha",
+    "categoria": "Desing",
+    "descricaoCurta": "Desing entendendo sobre tamanhos",
+    "descricaoDetalhada": "Segundo projeto do curso de Design de Interface Web. O objetivo era explorar mais profundamente as ferramentas de design do Figma, utilizando diferentes frames e elementos visuais para construir uma landing page de uma loja, colocando em prática composição, hierarquia e layout",
+    "imagens": [
+      "/img/sitecoxinha (1).png",
+      "/img/sitecoxinha (2).png",
+      "/img/sitecoxinha (3).png",
+      "/img/sitecoxinha (4).png",
+      "/img/sitecoxinha (5).png",
+      "/img/sitecoxinha (6).png",
+      "/img/sitecoxinha (7).png",
+      "/img/sitecoxinha (8).png"
+    ],
+    "DesignUrl": "https://www.figma.com/design/xzBr7lBKVR8NIxsASZ3jaC/trabalho-2--Giovanna?node-id=18-40&t=8KQpWXSD6GLPsq78-1"
+  },
+
+  {
+    "id": 9,
+    "titulo": "bakerville",
+    "categoria": "Desing",
+    "descricaoCurta": "Projeto de conclusão do curso do senai",
+    "descricaoDetalhada": "Finalizando meu curso de desing de interface web no SENAI, precisavamos fazer um projeto colocando tudo que aprendemos durante o curso, dessa maneira, em um grupo de 4 pessoas, fizemos o desing de uma empresa que oferece opções de sobremesas que combinem prazer gastronômico e benefícios à saúde",
+    "imagens": [
+      "/img/backerville (20).png",
+      "/img/backerville (1).png",
+      "/img/backerville (2).png",
+      "/img/backerville (3).png",
+      "/img/backerville (4).png",
+      "/img/backerville (5).png",
+      "/img/backerville (6).png",
+      "/img/backerville (7).png",
+      "/img/backerville (8).png",
+      "/img/backerville (9).png",
+      "/img/backerville (10).png",
+      "/img/backerville (11).png",
+      "/img/backerville (12).png",
+      "/img/backerville (13).png",
+      "/img/backerville (14).png",
+      "/img/backerville (15).png",
+      "/img/backerville (16).png",
+      "/img/backerville (17).png",
+      "/img/backerville (18).png",
+      "/img/backerville (19).png",
+      "/img/backerville (21).png",
+      "/img/backerville (22).png",
+      "/img/backerville (23).png",
+      "/img/backerville (24).png",
+      "/img/backerville (25).png"
+    ],
+    "codigoUrl": "https://www.figma.com/design/pWHGMLZ2ajyZZlnAIBhMJo/Untitled?node-id=0-1&t=kwAGU3h4B3rMnLN1-1"
+  },
+
+  {
+    "id": 10,
+    "titulo": "Fragolina",
+    "categoria": "Projetos de conclusão de aprendizado",
+    "descricaoCurta": "Um site para uma gelataria italiana chamada de Fragolina",
+    "descricaoDetalhada": "No mês de setembro de 2024, a professora Débora Paula nos ensinou sobre Arrays e solicitou a criação de um site capaz de armazenar informações utilizando o localStorage. Com isso, desenvolvi um projeto que refletisse a minha personalidade: uma gelateria italiana chamada Fragolina, em homenagem à minha cachorrinha Moranguinho — que, em italiano, significa exatamente “fragolina”. Além disso, o professor Samuel, da disciplina de Computação em Nuvem, requisitou que publicássemos o projeto na plataforma Render, concluindo assim todo o processo de desenvolvimento e implantação do site.",
+    "imagens": [
+      "/img/gelataria2024 (1).png",
+      "/img/gelataria2024 (2).png",
+      "/img/gelataria2024 (3).png",
+      "/img/gelataria2024 (4).png",
+      "/img/gelataria2024 (5).png",
+      "/img/gelataria2024 (6).png",
+      "/img/gelataria2024 (7).png",
+      "/img/gelataria2024 (8).png"
+    ],
+    "codigoUrl": "https://github.com/Gigifernandes/Fragolina-Render.git"
+  },
+
+  {
+    "id": 11,
+    "titulo": "Cyberbloom",
     "categoria": "Finalização de bimestre",
-    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
-    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "descricaoCurta": "Site do que acredito que haverá no fururo",
+    "descricaoDetalhada": "No último bimestre, com a orientação da professora Débora Paulo, desenvolvi um site que representasse minha visão de como serão as interfaces do futuro. A partir dessa proposta, criei uma loja de plantas cibernéticas, baseada na ideia de que, em um cenário futurista onde a fauna deixará de existir, novas tecnologias permitirão plantas artificiais que florescem quando chegam à casa do cliente. O design foi pensado de acordo com minha percepção das preferências visuais futuristas, e o projeto foi desenvolvido utilizando HTML, CSS e JavaScript ",
     "imagens": [
-      "/img/promeiroprojeto.png",
-      "/img/promeiroprojeto2.png",
-      "/img/promeiroprojeto3.png"
+      "/img/sitedofuturoatualizações (1).png",
+      "/img/sitedofuturoatualizações (2).png",
+      "/img/sitedofuturoatualizações (4).png",
+      "/img/sitedofuturoatualizações (5).png",
+      "/img/sitedofuturoatualizações (6).png",
+      "/img/sitedofuturoatualizações (7).png"
     ],
-    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+    "codigoUrl": "https://github.com/Gigifernandes/cyberbloomsite.git"
   },
 
   {
-    "id": 1,
-    "titulo": "Primeiro projeto",
-    "categoria": "Finalização de bimestre",
-    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
-    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
-    "imagens": [
-      "/img/promeiroprojeto.png",
-      "/img/promeiroprojeto2.png",
-      "/img/promeiroprojeto3.png"
-    ],
-    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
-  },
-
-  {
-    "id": 1,
-    "titulo": "Primeiro projeto",
+    "id": 12,
+    "titulo": "Sistema de Delivery",
     "categoria": "Projetos de conclusão de aprendizado",
-    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
-    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
+    "descricaoCurta": "Sistema de Delivery - Microsserviço de Clientes e Restaurantes",
+    "descricaoDetalhada": "O Sistema de Delivery – Microsserviço de Clientes e Restaurantes foi um projeto proposto pelo professor Jacques Simões, para ser desenvolvido em grupo como parte do TCC, com entrega prevista para abril de 2025. As tecnologias utilizadas incluem Node.js, Express.js, MySQL, JWT, entre outras. Fiquei responsável pela página de autenticação de clientes, implementando cadastro, login e gerenciamento de acesso dentro do microsserviço.",
     "imagens": [
-      "/img/promeiroprojeto.png",
-      "/img/promeiroprojeto2.png",
-      "/img/promeiroprojeto3.png"
+      "/img/sitedofuturoatualizações (1).png",
+      "/img/sitedofuturoatualizações (2).png",
+      "/img/sitedofuturoatualizações (4).png",
+      "/img/sitedofuturoatualizações (5).png",
+      "/img/sitedofuturoatualizações (6).png",
+      "/img/sitedofuturoatualizações (7).png"
     ],
-    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
-  },
-
-  {
-    "id": 1,
-    "titulo": "Primeiro projeto",
-    "categoria": "Projetos de conclusão de aprendizado",
-    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
-    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
-    "imagens": [
-      "/img/promeiroprojeto.png",
-      "/img/promeiroprojeto2.png",
-      "/img/promeiroprojeto3.png"
-    ],
-    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
-  },
-
-  {
-    "id": 1,
-    "titulo": "Primeiro projeto",
-    "categoria": "Projetos de conclusão de aprendizado",
-    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
-    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
-    "imagens": [
-      "/img/promeiroprojeto.png",
-      "/img/promeiroprojeto2.png",
-      "/img/promeiroprojeto3.png"
-    ],
-    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
-  },
-
-  {
-    "id": 1,
-    "titulo": "Primeiro projeto",
-    "categoria": "Projetos de conclusão de aprendizado",
-    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
-    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
-    "imagens": [
-      "/img/promeiroprojeto.png",
-      "/img/promeiroprojeto2.png",
-      "/img/promeiroprojeto3.png"
-    ],
-    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
-  },
-
-  {
-    "id": 1,
-    "titulo": "Primeiro projeto",
-    "categoria": "Projetos de conclusão de aprendizado",
-    "descricaoCurta": "Esse projeto foi guiado pela professora Deborá Paula.",
-    "descricaoDetalhada": "Foi solicitado que o site tivesse o que havia sido aprendido até aquele momento, utilizando CSS e HTML.",
-    "imagens": [
-      "/img/promeiroprojeto.png",
-      "/img/promeiroprojeto2.png",
-      "/img/promeiroprojeto3.png"
-    ],
-    "codigoUrl": "https://github.com/Gigifernandes/projetofinaldeIW.git"
+    "codigoUrl": "https://github.com/Gigifernandes/sisitemaMicrosservicos.git"
   }
 
 

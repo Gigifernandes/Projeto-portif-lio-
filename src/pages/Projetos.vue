@@ -80,6 +80,15 @@
             >
               <i class="bi bi-github"></i> Código
             </a>
+
+            <a 
+            v-if="projetoSelecionado?.DesignUrl"
+            :href="projetoSelecionado.DesigUrl"
+            target="_blank"
+            class="btn"
+          >
+            <i class="bi bi-palette"></i> Design Figma
+          </a>
           </div>
 
         </div>

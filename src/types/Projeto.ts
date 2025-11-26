@@ -6,4 +6,5 @@ export interface Projeto {
     descricaoDetalhada: string;
     imagens: string[];
     codigoUrl?: string;
+    DesignUrl?: string;
 }

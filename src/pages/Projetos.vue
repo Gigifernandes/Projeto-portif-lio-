@@ -83,7 +83,7 @@
 
             <a 
             v-if="projetoSelecionado?.DesignUrl"
-            :href="projetoSelecionado.DesigUrl"
+            :href="projetoSelecionado.DesignUrl"
             target="_blank"
             class="btn"
           >
@@ -111,6 +111,7 @@ interface Projeto {
   descricaoDetalhada: string;
   imagens: string[];
   codigoUrl?: string
+  DesignUrl?: string
 }
 
 const projetos = ref<Projeto[]>([])

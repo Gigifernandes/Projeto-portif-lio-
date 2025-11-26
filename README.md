@@ -24,7 +24,12 @@ Este projeto permite demonstrar:
 ## Demonstração Online
 
 🔗 **Acesse a aplicação publicada:**  
- link: *https://github.com/Gigifernandes/Projeto-portif-lio-.git*
+ Essa publicação foi feita pelo netlify drop
+ link: *musical-mermaid-3937dc.netlify.app*
+ 
+ 
+
+ **Caso necessário**
 
     No terminal do VS Code digite 'npm install', caso tenha algum erro escreva 'npm install -g @vue/cli'
     para rodar o site você precisa escrever 'npm run dev'

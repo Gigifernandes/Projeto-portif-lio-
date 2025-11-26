@@ -1,4 +1,21 @@
-[
+[ {
+    "id": 0,
+    "titulo": "Musica",
+    "categoria": "Projetos de conclusão de aprendizado",
+    "descricaoCurta": "Site que conta um pouco sobre MPB",
+    "descricaoDetalhada": "Primeiro trabalho proposto pela professora Débora Paulo, cujo objetivo era introduzir os fundamentos de HTML e CSS. A atividade permitia que cada aluno desenvolvesse um site sobre um tema de sua preferência. Assim, optei por criar um site dedicado à MPB, apresentando informações sobre alguns dos meus artistas favoritos.",
+    "imagens": [
+      "/img/primeirotrabalho (1).png", 
+      "/img/primeirotrabalho (2).png",
+      "/img/primeirotrabalho (3).png",
+      "/img/primeirotrabalho (4).png",
+      "/img/primeirotrabalho (5).png",
+      "/img/primeirotrabalho (6).png",
+      "/img/primeirotrabalho (7).png",
+      "/img/primeirotrabalho (8).png"
+    ]
+  },
+
   {
     "id": 1,
     "titulo": "Site pizza",
@@ -223,12 +240,18 @@
     "descricaoCurta": "Sistema de Delivery - Microsserviço de Clientes e Restaurantes",
     "descricaoDetalhada": "O Sistema de Delivery – Microsserviço de Clientes e Restaurantes foi um projeto proposto pelo professor Jacques Simões, para ser desenvolvido em grupo como parte do TCC, com entrega prevista para abril de 2025. As tecnologias utilizadas incluem Node.js, Express.js, MySQL, JWT, entre outras. Fiquei responsável pela página de autenticação de clientes, implementando cadastro, login e gerenciamento de acesso dentro do microsserviço.",
     "imagens": [
-      "/img/sitedofuturoatualizações (1).png",
-      "/img/sitedofuturoatualizações (2).png",
-      "/img/sitedofuturoatualizações (4).png",
-      "/img/sitedofuturoatualizações (5).png",
-      "/img/sitedofuturoatualizações (6).png",
-      "/img/sitedofuturoatualizações (7).png"
+      "/img/microsservisso (7).png",
+       "/img/microsservisso (3).png",
+        "/img/microsservisso (4).png",
+         "/img/microsservisso (5).png",
+          "/img/microsservisso (6).png",
+           "/img/microsservisso (1).png",
+            "/img/microsservisso (2).png",
+            "/img/microsservisso (8).png",
+            "/img/microsservisso (9).png",
+            "/img/microsservisso (10).png",
+            "/img/microsservisso (11).png"
+
     ],
     "codigoUrl": "https://github.com/Gigifernandes/sisitemaMicrosservicos.git"
   }
